@@ -14,8 +14,6 @@ public class Ganjil_Genap {
             
         }
     }
-
-
         
     }
 }
